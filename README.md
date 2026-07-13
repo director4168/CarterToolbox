@@ -1,5 +1,6 @@
 # Carter工具箱  
-感谢您的使用与支持，如果您觉得可以的话，不妨给本项目点一个星标Star以支持我。[微信赞赏码](https://director4168.github.io/jpg/WeChat_Sponsorship.jpeg)  
+感谢您的使用与支持，如果您觉得可以的话，不妨给本项目点一个星标Star以支持我，当然您也可以通过[微信赞赏码](https://director4168.github.io/jpg/WeChat_Sponsorship.jpeg)来赞助我  
+本项目会不定期更新，每次更新都带来不一样的新体验，欢迎您进行下载体验
 
 **By director_Carter**
 
