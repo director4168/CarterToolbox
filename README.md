@@ -25,10 +25,6 @@
 <a name='ContactInformation'></a>
 ## 联系方式
 
-### 个人网站
-- **个人网站:**  
-http://director4168.github.io
-
 ### 哔哩哔哩
 - **昵称:** director_Carter
 - **UID:** 1113918991
