@@ -4,7 +4,7 @@
 **By director_Carter**
 
 <a name='TableOfContents'></a>
-## 目录 | 中文
+## 目录
 
 ### [目录](#TableOfContents)
 ### [功能](#Function)
