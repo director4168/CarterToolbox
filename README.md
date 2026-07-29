@@ -47,5 +47,5 @@ https://bbs.binmt.cc/home.php?mod=space&uid=134138&do=profile&mobile=2
 
 ---
 
-> (C) 2025 director_Carter 保留所有权利  
-> (C) 2025 director_Carter All Rights Reserved.
+> (C) 2026 director_Carter 保留所有权利  
+> (C) 2026 director_Carter All Rights Reserved.
